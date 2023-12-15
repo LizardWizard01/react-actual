@@ -1,15 +1,15 @@
 export const artGal = [{
     name: 'Warlord',
     url: 'https://i.imgur.com/Mx7dA2Y.jpg',
-    alt: 'A bronze statue of two crossed hands delicately holding a human brain in their fingertips.'
+    alt: 'Demonic Warlord character'
 }, {
     name: 'Warlord Demon Form',
     url: 'https://i.imgur.com/ZF6s192m.jpg',
-    alt: 'A gigantic metallic flower sculpture with reflective mirror-like petals and strong stamens.'
+    alt: 'Demon form of the Warlord'
 }, {
     name: 'Oni Mask',
     url: 'https://i.imgur.com/aTtVpES.jpg',
-    alt: 'The sculpture depicting a human head seems ever-present and solemn. It radiates calm and serenity.'
+    alt: 'A character I made trying to cross a paladin with a samurai'
 }, {
     name: 'Higgs the Pirate',
     url: 'https://i.imgur.com/RCwLEoQm.jpg',
