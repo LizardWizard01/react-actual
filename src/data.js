@@ -1,6 +1,6 @@
 export const artGal = [{
     name: 'Warlord',
-    url: 'https://i.imgur.com/Mx7dA2Y.jpg',
+    url: 'wL',
     alt: 'Demonic Warlord character'
 }, {
     name: 'Warlord Demon Form',

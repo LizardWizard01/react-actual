@@ -40,6 +40,10 @@ div.home {
   font-size: 2em;
   padding: 2em;
 }
+div.resume {
+  background: rgba(255, 88, 88, 0.77);
+  padding: 2em;
+}
 div.home p {
   font-family: "Arial";
 }

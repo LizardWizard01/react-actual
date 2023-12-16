@@ -11,6 +11,7 @@ import Navbar from "./components/Navbar/NavElements";
 import Home from "./pages/home";
 import Gallery from "./pages/gallery";
 import About from "./pages/about"
+import Resume from "./pages/resume";
 
 function App() {
     return (<>
@@ -22,6 +23,7 @@ function App() {
                         <Route path="/react-project" element={<Home/>} />
                         <Route path="/gallery" element={<Gallery />} />
                         <Route path="/about" element={<About />} />
+                        <Route path="/resume" element={<Resume />} />
                     </Routes>
                 </BrowserRouter>
             </div>
